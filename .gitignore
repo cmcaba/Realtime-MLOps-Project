@@ -4,3 +4,6 @@ models/*.pkl
 __pycache__/
 .dvc/cache
 .dvc/tmp
+.venv
+.python-version
+uv.lock
